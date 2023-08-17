@@ -1,0 +1,14 @@
+@font-face {
+  font-family: fonts;
+  src: url(./assets/font/Roboto-Black.ttf),
+  url(./assets/font/Roboto-BlackItalic.ttf),
+  url(./assets/font/Roboto-Bold.ttf),
+  url(./assets/font/Roboto-BoldItalic.ttf),
+  url(./assets/font/Roboto-Medium.ttf);
+}
+
+*{
+  padding: 0;
+  margin: 0;
+  font-family: fonts;
+}
